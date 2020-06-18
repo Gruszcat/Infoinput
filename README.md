@@ -1,2 +1,2 @@
-# LiberateToAutomate
-Project 1 Starting Point for CS-256
+# SoulfulPrawn
+Alex Gruszczynski's CS-256 project 1.
