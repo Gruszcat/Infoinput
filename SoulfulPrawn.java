@@ -8,27 +8,27 @@ public class SoulfulPrawn {
     System.out.println("SoulfulPrawn\n\n");
 
     System.out.println("What is your full first name?:");
-    String something1 = user_input.nextLine();
+    String firstname = user_input.nextLine();
     System.out.println("\n");
 
     System.out.println("What is your middle name?");
-    String something2 = user_input.nextLine();
+    String middlename = user_input.nextLine();
     System.out.println("\n");
 
     System.out.println("What is your last name?");
-    String something3 = user_input.nextLine();
+    String lastname = user_input.nextLine();
     System.out.println("\n");
 
     System.out.println("What is your birth month?");
-    String something4 = user_input.nextLine();
+    String birthmonth = user_input.nextLine();
     System.out.println("\n");
 
     System.out.println("What is your birth year?");
-    String something5 = user_input.nextLine();
+    String birthyear = user_input.nextLine();
     System.out.println("\n\n");
  
-    System.out.println("Full Name: " + something1 + " " + something2 + " " + something3);
+    System.out.println("Full Name: " + firstname + " " + middlename + " " + lastname);
 
-    System.out.println("Born: " + something4 + " " + something5);
+    System.out.println("Born: " + birthmonth + " " + birthyear);
   }
 }
