@@ -1,11 +1,11 @@
 import java.util.*; 
-public class SoulfulPrawn {
+public class Infoinput {
  
   public static void main(String[] args) {
    
     Scanner user_input = new Scanner(System.in);
   
-    System.out.println("SoulfulPrawn\n\n");
+    System.out.println("Infoinput\n\n");
 
     System.out.println("What is your full first name?");
     String firstname = user_input.nextLine();
