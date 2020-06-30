@@ -7,7 +7,7 @@ public class SoulfulPrawn {
   
     System.out.println("SoulfulPrawn\n\n");
 
-    System.out.println("What is your full first name?:");
+    System.out.println("What is your full first name?");
     String firstname = user_input.nextLine();
     System.out.println("\n");
 
