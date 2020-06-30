@@ -1,2 +1,2 @@
-# SoulfulPrawn
-Alex Gruszczynski's CS-256 project 1.
+# ImmaculateDew
+Alex Gruszczynski's CS-256 project 2.
